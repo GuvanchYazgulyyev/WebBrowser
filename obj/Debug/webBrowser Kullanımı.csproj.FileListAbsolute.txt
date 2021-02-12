@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\C# ders 8\webBrowser Kullanımı\webBrowser Kullanımı\bin\Debug\webBrowser Kullanımı.exe.config
+C:\Users\Dell\source\repos\C# ders 8\webBrowser Kullanımı\webBrowser Kullanımı\bin\Debug\webBrowser Kullanımı.exe
+C:\Users\Dell\source\repos\C# ders 8\webBrowser Kullanımı\webBrowser Kullanımı\bin\Debug\webBrowser Kullanımı.pdb
+C:\Users\Dell\source\repos\C# ders 8\webBrowser Kullanımı\webBrowser Kullanımı\obj\Debug\webBrowser Kullanımı.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 8\webBrowser Kullanımı\webBrowser Kullanımı\obj\Debug\webBrowser_Kullanımı.Form1.resources
+C:\Users\Dell\source\repos\C# ders 8\webBrowser Kullanımı\webBrowser Kullanımı\obj\Debug\webBrowser_Kullanımı.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 8\webBrowser Kullanımı\webBrowser Kullanımı\obj\Debug\webBrowser Kullanımı.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 8\webBrowser Kullanımı\webBrowser Kullanımı\obj\Debug\webBrowser Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 8\webBrowser Kullanımı\webBrowser Kullanımı\obj\Debug\webBrowser Kullanımı.exe
+C:\Users\Dell\source\repos\C# ders 8\webBrowser Kullanımı\webBrowser Kullanımı\obj\Debug\webBrowser Kullanımı.pdb
